@@ -1,6 +1,6 @@
 # Vault
 
-**An autonomous, tool-using AI agent with dynamic model routing, two-stage retrieval-augmented generation, live web search, and automated source attribution, served through a Postman-inspired web interface.**
+**An autonomous, tool-using AI agent with dynamic model routing, two-stage retrieval-augmented generation, live web search, and automated source attribution, served through a User friendly web interface.**
 
 A Vault is a single-file, production-oriented Google Colab application built on LangChain, the Groq inference API, ChromaDB, and Gradio. It combines a tiered language-model router, a deterministic tool suite, and a hybrid retrieval pipeline into one agent that grounds its answers in retrieved evidence and cites every source it uses.
 
