@@ -157,7 +157,7 @@ Keys are resolved in the following order:
 | Key | Purpose | Required |
 |---|---|---|
 | `GROQ_API_KEY` | Language model inference | Yes |
-| `TAVILY_API_KEY` | Live web search | Optional |
+| `TAVILY_API_KEY` | Live web search | Yes |
 
 To add a Colab Secret, open the key icon in the left sidebar, create a secret with the exact name above, and enable notebook access.
 
