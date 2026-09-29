@@ -6,7 +6,7 @@ A Vault is a single-file, production-oriented Google Colab application built on 
 
 ---
 
-<img width="1692" height="978" alt="image" src="https://github.com/user-attachments/assets/8708bd1d-aaec-4244-8f24-33f17759d608" />
+<img width="1741" height="985" alt="image" src="https://github.com/user-attachments/assets/cca32f42-2b9a-4db8-896f-4a3109b62e43" />
 
 ---
 
