@@ -55,7 +55,7 @@ The system is designed around three principles:
 | Deterministic mathematics | Exact `add`, `multiply`, and a sandboxed arithmetic evaluator built on the Python AST. |
 | Automated attribution | Source tags are injected into tool outputs and enforced by a post-generation check. |
 | Tool inspection | Each tool call is displayed as a collapsible panel showing arguments and results. |
-| Postman-themed interface | Dark developer-oriented UI with a status bar, latency gauge, and active-model badge. |
+| USER FRIENDLY interface | Dark developer-oriented UI with a status bar, latency gauge, and active-model badge. |
 | Fault tolerance | Defensive error handling around every tool and automatic fallback to the deep-tier model. |
 
 ---
