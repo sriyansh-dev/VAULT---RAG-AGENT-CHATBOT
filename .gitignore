@@ -1,0 +1,5 @@
+# added by S.A.G.E.
+.env
+.venv/
+.sage/
+__pycache__/
